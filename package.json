@@ -1,0 +1,24 @@
+{
+  "name": "date_facts_daily",
+  "version": "1.0.0",
+  "description": "prints info of current time",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atcalkins/date_facts_daily.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atcalkins/date_facts_daily/issues"
+  },
+  "homepage": "https://github.com/atcalkins/date_facts_daily#readme"
+}
